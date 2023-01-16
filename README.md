@@ -1,2 +1,1 @@
-# TinDog
-create application using bootstrap
+TinDog Starting Files
